@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.vylee.vendor.entity.Vendor_Registration;
-import com.vylee.vendor.response.VendorResponse;
 import com.vylee.vendor.services.VendorService;
 import com.vylee.vendor.twilio.TwilioSendOTPService;
 
